@@ -6,44 +6,23 @@
       <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 70) rotate(135) scale(360 260)">
-      <stop stop-color="#30363D" stop-opacity="0.7"/>
+      <stop stop-color="#30363D" stop-opacity="0.72"/>
       <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="28"/>
     </filter>
   </defs>
-
   <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
   <circle cx="1035" cy="76" r="90" fill="#21262D" opacity="0.5" filter="url(#soft)"/>
-
-  <g opacity="0.45" stroke="#30363D">
-    <path d="M70 252H1130"/>
-    <path d="M70 268H760"/>
-  </g>
-
+  <g opacity="0.45" stroke="#30363D"><path d="M70 252H1130"/><path d="M70 268H760"/></g>
   <text x="72" y="92" fill="#F0F6FC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="700">Denis Denisov</text>
   <text x="74" y="138" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="500">Backend Engineer · Python · Distributed Systems</text>
   <text x="74" y="184" fill="#8B949E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Building backend systems, infrastructure and AI-powered products.</text>
-
-  <g transform="translate(74 216)">
-    <rect width="152" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
-    <text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Python / Backend</text>
-  </g>
-  <g transform="translate(238 216)">
-    <rect width="166" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
-    <text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Systems / Infra</text>
-  </g>
-  <g transform="translate(416 216)">
-    <rect width="122" height="34" rx="17" fill="#161B22" stroke="#30363D"/>
-    <text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Go / AI / ML</text>
-  </g>
-
-  <g transform="translate(920 112)">
-    <text x="0" y="0" fill="#F0F6FC" font-family="Consolas, Menlo, monospace" font-size="58" font-weight="700">&lt;/&gt;</text>
-    <text x="18" y="56" fill="#8B949E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16">senior-pomidor 🍅</text>
-  </g>
-
+  <g transform="translate(74 216)"><rect width="152" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Python / Backend</text></g>
+  <g transform="translate(238 216)"><rect width="166" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Systems / Infra</text></g>
+  <g transform="translate(416 216)"><rect width="122" height="34" rx="17" fill="#161B22" stroke="#30363D"/><text x="18" y="23" fill="#C9D1D9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Go / AI / ML</text></g>
+  <g transform="translate(920 112)"><text x="0" y="0" fill="#F0F6FC" font-family="Consolas, Menlo, monospace" font-size="58" font-weight="700">&lt;/&gt;</text><text x="18" y="56" fill="#8B949E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16">senior-pomidor 🍅</text></g>
   <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" stroke="#30363D"/>
 </svg>

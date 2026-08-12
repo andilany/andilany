@@ -1,0 +1,26 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F6F8FA"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 70) rotate(135) scale(360 260)">
+      <stop stop-color="#D0D7DE" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <circle cx="1035" cy="76" r="90" fill="#D8DEE4" opacity="0.55" filter="url(#soft)"/>
+  <g opacity="0.75" stroke="#D0D7DE"><path d="M70 252H1130"/><path d="M70 268H760"/></g>
+  <text x="72" y="92" fill="#1F2328" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="700">Денис Денисов</text>
+  <text x="74" y="138" fill="#424A53" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="500">Backend Engineer · Python · Распределённые системы</text>
+  <text x="74" y="184" fill="#656D76" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Создаю backend-системы, инфраструктуру и продукты с AI.</text>
+  <g transform="translate(74 216)"><rect width="152" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/><text x="18" y="23" fill="#424A53" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Python / Backend</text></g>
+  <g transform="translate(238 216)"><rect width="182" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/><text x="18" y="23" fill="#424A53" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Системы / Infra</text></g>
+  <g transform="translate(432 216)"><rect width="122" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/><text x="18" y="23" fill="#424A53" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Go / AI / ML</text></g>
+  <g transform="translate(920 112)"><text x="0" y="0" fill="#1F2328" font-family="Consolas, Menlo, monospace" font-size="58" font-weight="700">&lt;/&gt;</text><text x="-62" y="56" fill="#656D76" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14">Синьер-помидор бэкенд разработчик 🍅</text></g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" stroke="#D0D7DE"/>
+</svg>
