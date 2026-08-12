@@ -1,5 +1,13 @@
+<p align="right">
+  <strong>English</strong> · <a href="./README_RU.md">Русский</a>
+</p>
+
 <p align="center">
-  <img src="./assets/header.svg" alt="Denis Denisov — Backend Engineer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img src="./assets/header-light.svg" alt="Denis Denisov — Backend Engineer" width="100%">
+  </picture>
 </p>
 
 <p align="center">
