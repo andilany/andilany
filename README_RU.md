@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Senior-pomidor backend developer 🍅</strong><br/>
+  <strong>Синьер-помидор бэкенд разработчик 🍅</strong><br/>
   В основном Python. Изучаю Go. Углубляюсь в ML, LLM-системы и AI-assisted разработку.
 </p>
 
