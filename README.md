@@ -91,7 +91,7 @@ A large Python platform that turns raw open-source text into structured reputati
 </td>
 <td width="50%" valign="top">
 
-### 🌐 AndyNPV
+### 🌐 [AndyNPV](https://t.me/AndyNPVbot)
 **Network infrastructure & service automation**
 
 A production service around distributed network infrastructure, subscriptions, automation and observability.
